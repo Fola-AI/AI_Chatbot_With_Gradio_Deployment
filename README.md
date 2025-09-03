@@ -43,16 +43,7 @@ GOOGLE_API_KEY=your_google_api_key         # optional
 
 **▶️ Usage**
 
-Run the chatbot locally:
-
-python app.py
-
-
-or open the Jupyter notebook:
-
-jupyter notebook AI_Chatbot_with_Gradio.ipynb
-
-
+Run the chatbot locally: python app.py or open the Jupyter notebook: jupyter notebook AI_Chatbot_with_Gradio.ipynb
 Once started, Gradio will provide you with a local URL and a public shareable link to interact with the chatbot.
 
 **📂 Project Structure**
